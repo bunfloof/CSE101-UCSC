@@ -1,0 +1,48 @@
+/********************************************************************************* 
+* Bun Ma, jma363
+* 2022 Winter CSE101 PA4
+* README
+* README for Matrix
+*
+* -----------
+* DESCRIPTION
+* The goal in this project is to implement a Matrix ADT and some associated algorithms in C.
+*
+* -----------
+* FILES
+* 
+* Sparse.c
+* This file accepts an input and produces an output.
+* -
+* Matrix.c
+* This file includes the Matrix operations.
+* -
+* Matrix.h
+* This file is the header file for Matrix.c.
+* -
+* MatrixTest.c
+* This file comprehensively tests the functionality of Matrix.c.
+* -
+* List.c
+* This file includes the List ADT operations.
+* -
+* List.h
+* This file is the header file for List.c.
+* -
+* ListTest.c
+* This file comprehensively tests the functionality of List.c.
+* -
+* Makefile
+* This file compiles the program.
+* -
+* README
+* This file explains the program.
+* 
+* -----------
+* INSTRUCTIONS
+* make
+* ./Sparse <input-file> <output file>
+* ./MatrixTest
+* ./ListTest
+*
+*********************************************************************************/

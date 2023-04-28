@@ -1,0 +1,39 @@
+/********************************************************************************* 
+* Bun Ma, jma363
+* 2022 Winter CSE101 PA1
+* List.c 
+* List for List ADT 
+*
+* -----------
+* DESCRIPTION
+* The goal in this project is to build an Integer List ADT in C and use it to 
+* indirectly alphabetize the lines in a file.
+*
+* -----------
+* FILES
+* 
+* List.c
+* This file includes the List ADT operations.
+* -
+* Lex.c
+* This file accepts an input file and sorts it to the List.
+* -
+* ListTest.c
+* This file thouroughly tests the List ADT operations.
+* -
+* List.h
+* This file is the header file for List.c.
+* -
+* Makefile
+* This file compiles the program.
+* -
+* README
+* This file explains the program.
+* 
+* -----------
+* INSTRUCTIONS
+* make
+* ./Lex <input-file> <output file>
+* ./ListTest
+*
+*********************************************************************************/

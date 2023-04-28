@@ -1,0 +1,38 @@
+/********************************************************************************* 
+* Bun Ma, jma363
+* 2022 Winter CSE101 PA7
+* README
+* README for Dictionary ADT
+*
+* -----------
+* DESCRIPTION
+* The goal in this project is to implement a Dictionary ADT and some associated algorithms in C++.
+*
+* -----------
+* FILES
+* 
+* Dictionary.cpp
+* This file includes the Dictionary ADT operations
+* -
+* Dictionary.h 
+* This file is the header file for Dictionary.cpp.
+* -
+* DictionaryTest.cpp
+* This file file comprehensively tests the functionality of Dictionary.h.
+* -
+* Order.cpp
+* This file accepts an input and produces an output.
+* -
+* Makefile
+* This file compiles the program.
+* -
+* README
+* This file explains the program.
+* 
+* -----------
+* INSTRUCTIONS
+* make
+* ./Order <input-file> <output file>
+* ./DictionaryTest
+*
+*********************************************************************************/

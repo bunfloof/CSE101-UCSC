@@ -1,0 +1,44 @@
+/********************************************************************************* 
+* Bun Ma, jma363
+* 2022 Winter CSE101 PA2
+* README
+* README for Graph
+*
+* -----------
+* DESCRIPTION
+* The goal in this project is to implement a Graph ADT and some associated algorithms in C.
+*
+* -----------
+* FILES
+* 
+* FindPath.c
+* This file is accepts an input and produces an output.
+* -
+* Graph.c
+* This file includes the Graph operations.
+* -
+* Graph.h
+* This file is the header file for Graph.c.
+* -
+* GraphTest.c
+* This file comprehensively tests the functionality of Graph.c.
+* -
+* List.c
+* This file includes the List ADT operations.
+* -
+* List.h
+* This file is the header file for List.c.
+* -
+* Makefile
+* This file compiles the program.
+* -
+* README
+* This file explains the program.
+* 
+* -----------
+* INSTRUCTIONS
+* make
+* ./FindPath <input-file> <output file>
+* ./GraphTest
+*
+*********************************************************************************/

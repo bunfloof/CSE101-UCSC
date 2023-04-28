@@ -1,0 +1,48 @@
+/********************************************************************************* 
+* Bun Ma, jma363
+* 2022 Winter CSE101 PA6
+* README
+* README for BigInteger ADT
+*
+* -----------
+* DESCRIPTION
+* The goal in this project is to implement a BigInteger ADT and some associated algorithms in C++.
+*
+* -----------
+* FILES
+* 
+* Arithmetic.cpp
+* This file accepts an input and produces an output.
+* -
+* BigInteger.cpp 
+* This file includes the BigInteger ADT operations.
+* -
+* BigInteger.h
+* This file is the header file for BigInteger.cpp.
+* -
+* BigIntegerTest.cpp
+* This file file comprehensively tests the functionality of BigInteger.h.
+* -
+* List.cpp
+* This file includes the List ADT operations.
+* -
+* List.h
+* This file is the header file for List.c.
+* -
+* ListTest.cpp
+* This file comprehensively tests the functionality of List.c.
+* -
+* Makefile
+* This file compiles the program.
+* -
+* README
+* This file explains the program.
+* 
+* -----------
+* INSTRUCTIONS
+* make
+* ./Arithmetic <input-file> <output file>
+* ./BigIntegerTest
+* ./ListTest
+*
+*********************************************************************************/
